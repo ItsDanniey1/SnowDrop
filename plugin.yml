@@ -1,0 +1,23 @@
+name: SnowDrop
+main: me.ItsDanniey1.SnowDrop.SnowDrop
+version: 0.1
+description: >
+                 Run, jump and slay!
+commands:
+   start:
+      description: Clear Invents and start the game!
+   finish:
+      description: Clear Invents and start the game!
+   warmup:
+      description: Teleport players to their spawns!
+
+   mobs:
+      description: Removes entities
+   day:
+      description: Makes it day
+   halt:
+      description: Stops the GameManager
+   startcountdown:
+      description: Restarts the GameManager
+   heal:
+      description: Sets gamestate to IN_PROGRESS
